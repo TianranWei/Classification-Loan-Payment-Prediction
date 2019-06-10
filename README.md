@@ -3,13 +3,17 @@
 Machine Learning with Python is an oline MOOC course autherized by IBM an provided by Coursera. This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
 In this course, there are two main components:
 
-- First, you will be learning about the *purpose of Machine Learning* and where it applies to the real world. 
+- First, you will be learning about the *purpose of Machine Learning* and *where it applies to the real world.*
 
 - Second, you will get *a general overview of Machine Learning topics* such as supervised vs unsupervised learning,  model evaluation, and *Machine Learning algorithms*. 
 
 This Repo consits of my personal notes of this course and the final Project "Classification-Loan-Payment-Prediction"
 
 In the future I'll post more my  notes and code implementation in the area such as Data Science, Machine Learning and Deep Learning.
+
+## ToDo
+- Demo Collection of ML-Models and Algorithms
+- Projects in Kaggle
 
 ##  Personal course Note - TOC
 
